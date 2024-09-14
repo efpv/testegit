@@ -8,7 +8,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "teste 3",
+  "description": "Testando git pull",
   "dependencies": {
     "express": "^4.21.0"
   }
